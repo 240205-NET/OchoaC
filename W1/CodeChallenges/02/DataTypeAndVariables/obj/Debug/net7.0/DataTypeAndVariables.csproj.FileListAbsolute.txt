@@ -1,0 +1,15 @@
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.exe
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.deps.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.runtimeconfig.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\bin\Debug\net7.0\DataTypeAndVariables.pdb
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.AssemblyInfoInputs.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.AssemblyInfo.cs
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.csproj.CoreCompileInputs.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.sourcelink.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\refint\DataTypeAndVariables.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.pdb
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\DataTypeAndVariables.genruntimeconfig.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\02\DataTypeAndVariables\obj\Debug\net7.0\ref\DataTypeAndVariables.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2+BPtlztAecafpjGqjbAHyMFxSIiz4M3bysdZJ/K4yEL5aNNf7UMeCvvt5TeDk/IECIQoMm6p1bEKRJi4S5I9w==",
+  "success": true,
+  "projectFilePath": "D:\\Workspaces\\Revature\\OchoaC\\W1\\CodeChallenges\\02\\DataTypeAndVariables\\DataTypeAndVariables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fw21cyTP5IvMPdIPIMwPDKyz2EtZk1FD+19mxhQ8ZJtabY9VdViUvXRQzG2U7W4abaMRz65ffrHUorkSD4iN4A==",
+  "success": true,
+  "projectFilePath": "D:\\Workspaces\\Revature\\OchoaC\\W1\\CodeChallenges\\05\\FlowControl\\FlowControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
