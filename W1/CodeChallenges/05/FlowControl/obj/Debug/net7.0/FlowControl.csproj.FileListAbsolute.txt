@@ -1,0 +1,15 @@
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\bin\Debug\net7.0\FlowControl.exe
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\bin\Debug\net7.0\FlowControl.deps.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\bin\Debug\net7.0\FlowControl.runtimeconfig.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\bin\Debug\net7.0\FlowControl.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\bin\Debug\net7.0\FlowControl.pdb
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.AssemblyInfoInputs.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.AssemblyInfo.cs
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.csproj.CoreCompileInputs.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.sourcelink.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\refint\FlowControl.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.pdb
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\FlowControl.genruntimeconfig.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\05\FlowControl\obj\Debug\net7.0\ref\FlowControl.dll

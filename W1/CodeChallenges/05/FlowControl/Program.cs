@@ -38,41 +38,6 @@ namespace FlowControl
             {
                 Console.WriteLine("Please enter a valid temperature between -40 and 130.");
             }
-            if( temp <-20){
-                Console.WriteLine("Cover every part of your body.");
-            }
-            else if (temp < 0)
-            {
-                Console.WriteLine("Wear a heavy coat.");
-            }
-            else if (temp < 20)
-            {
-                Console.WriteLine("Wear a coat.");
-            }
-            else if (temp < 40)
-            {
-                Console.WriteLine("Wear a light coat.");
-            }
-            else if (temp < 60)
-            {
-                Console.WriteLine("Wear a sweater.");
-            }
-            else if (temp < 80)
-            {
-                Console.WriteLine("Wear a t-shirt.");
-            }
-            else if (temp < 90)
-            {
-                Console.WriteLine("Wear a tank top.");
-            }
-            else if (temp < 100)
-            {
-                Console.WriteLine("Wear a swimsuit.");
-            }
-            else
-            {
-                Console.WriteLine("Sweat and suffer.");
-            }
             return temp;
         }
 
@@ -92,39 +57,39 @@ namespace FlowControl
         {
             if( temp < -20)
             {
-                Console.WriteLine("Hella cold");
+                Console.WriteLine("hella cold");
             }
             else if (temp < 0)
             {
-                Console.WriteLine("Pretty cold");
+                Console.WriteLine("pretty cold");
             }
             else if (temp < 20)
             {
-                Console.WriteLine("Cold");
+                Console.WriteLine("cold");
             }
             else if (temp < 40)
             {
-                Console.WriteLine("Thawed out");
+                Console.WriteLine("thawed out");
             }
             else if (temp < 60)
             {
-                Console.WriteLine("Feels like Autumn");
+                Console.WriteLine("feels like Autumn");
             }
             else if (temp < 80)
             {
-                Console.WriteLine("Perfect outdoor workout temperature");
+                Console.WriteLine("perfect outdoor workout temperature");
             }
             else if (temp < 90)
             {
-                Console.WriteLine("Niiice");
+                Console.WriteLine("niiice");
             }
             else if (temp < 100)
             {
-                Console.WriteLine("Hella hot");
+                Console.WriteLine("hella hot");
             }
             else
             {
-                Console.WriteLine("Hottest");
+                Console.WriteLine("hottest");
             }  
         }
 
@@ -137,6 +102,8 @@ namespace FlowControl
             username = Console.ReadLine();
             Console.WriteLine("Please enter a password: ");
             password = Console.ReadLine();
+
+            Console.WriteLine("saved");
         }
 
         // This method gets username and password from the user and

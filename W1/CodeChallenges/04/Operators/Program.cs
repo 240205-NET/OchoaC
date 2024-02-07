@@ -24,10 +24,10 @@ namespace Operators
             Console.WriteLine("The statement: num1 is equal to num2, or num1 is less than 0 is " + Or(num1,num2));
         }
         public static int Increment(int num) { 
-            return num++;
+            return ++num;
          }
         public static int Decrement(int num) { 
-            return num--;
+            return --num;
          }
         public static bool Not(bool input) { 
             return !input;
