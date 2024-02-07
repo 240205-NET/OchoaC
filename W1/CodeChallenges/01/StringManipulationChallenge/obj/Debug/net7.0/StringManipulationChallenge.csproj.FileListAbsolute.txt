@@ -1,0 +1,15 @@
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\bin\Debug\net7.0\StringManipulationChallenge.exe
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\bin\Debug\net7.0\StringManipulationChallenge.deps.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\bin\Debug\net7.0\StringManipulationChallenge.runtimeconfig.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\bin\Debug\net7.0\StringManipulationChallenge.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\bin\Debug\net7.0\StringManipulationChallenge.pdb
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.AssemblyInfoInputs.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.AssemblyInfo.cs
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.csproj.CoreCompileInputs.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.sourcelink.json
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\refint\StringManipulationChallenge.dll
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.pdb
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\StringManipulationChallenge.genruntimeconfig.cache
+D:\Workspaces\Revature\OchoaC\W1\CodeChallenges\01\StringManipulationChallenge\obj\Debug\net7.0\ref\StringManipulationChallenge.dll
