@@ -1,0 +1,12 @@
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\bin\Debug\net7.0\Project.Data.deps.json
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\bin\Debug\net7.0\Project.Data.dll
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\bin\Debug\net7.0\Project.Data.pdb
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\Project.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\Project.Data.AssemblyInfoInputs.cache
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\Project.Data.AssemblyInfo.cs
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\Project.Data.csproj.CoreCompileInputs.cache
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\Project.Data.sourcelink.json
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\Project.Data.dll
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\refint\Project.Data.dll
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\Project.Data.pdb
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Data\obj\Debug\net7.0\ref\Project.Data.dll

@@ -1,0 +1,12 @@
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\bin\Debug\net7.0\Project.Logic.deps.json
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\bin\Debug\net7.0\Project.Logic.dll
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\bin\Debug\net7.0\Project.Logic.pdb
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\Project.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\Project.Logic.AssemblyInfoInputs.cache
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\Project.Logic.AssemblyInfo.cs
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\Project.Logic.csproj.CoreCompileInputs.cache
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\Project.Logic.sourcelink.json
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\Project.Logic.dll
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\refint\Project.Logic.dll
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\Project.Logic.pdb
+D:\Workspaces\Revature\OchoaC\Projects\Project1\Project.Logic\obj\Debug\net7.0\ref\Project.Logic.dll

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClientList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Clients>
+    <Name>John Doe</Name>
+    <Email>123@gmail.com</Email>
+    <PhoneNumber>123-456-7890</PhoneNumber>
+    <Username>johndoe</Username>
+    <Password>password</Password>
+    <Appointments>
+      <AptDatetime>2022-12-12 12:00:00</AptDatetime>
+      <AptLocation>123 Main St</AptLocation>
+      <AptDescription>Haircut</AptDescription>
+      <ClientID>1</ClientID>
+      <EmployeeID>1</EmployeeID>
+    </Appointments>
+    <Appointments>
+      <AptDatetime>2022-12-12 12:00:00</AptDatetime>
+      <AptLocation>123 Main St</AptLocation>
+      <AptDescription>Haircut</AptDescription>
+      <ClientID>1</ClientID>
+      <EmployeeID>1</EmployeeID>
+    </Appointments>
+    <ClientID>0</ClientID>
+    <ClientType>premium</ClientType>
+  </Clients>
+  <Clients>
+    <Name>Jane Doe</Name>
+    <Email>321@gmail.com</Email>
+    <PhoneNumber>321-654-0987</PhoneNumber>
+    <Username>janedoe</Username>
+    <Password>password</Password>
+    <Appointments>
+      <AptDatetime>2022-12-12 12:00:00</AptDatetime>
+      <AptLocation>123 Main St</AptLocation>
+      <AptDescription>Haircut</AptDescription>
+      <ClientID>1</ClientID>
+      <EmployeeID>1</EmployeeID>
+    </Appointments>
+    <Appointments>
+      <AptDatetime>2022-12-12 12:00:00</AptDatetime>
+      <AptLocation>123 Main St</AptLocation>
+      <AptDescription>Haircut</AptDescription>
+      <ClientID>1</ClientID>
+      <EmployeeID>1</EmployeeID>
+    </Appointments>
+    <ClientID>0</ClientID>
+    <ClientType>basic</ClientType>
+  </Clients>
+</ClientList>
